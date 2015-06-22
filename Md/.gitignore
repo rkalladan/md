@@ -1,0 +1,6 @@
+/target/
+/target/
+.classpath
+.project
+.settings/*
+/src/main/resources/database.properties
